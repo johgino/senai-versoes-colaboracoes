@@ -14,3 +14,5 @@ Etapas da criação do versionamento de projeto
 - deu erro
 - para arrumar o erro deletei a pasta de teste que havia feito e estava junto com a pasta da atividade.
 - exclui tambem o o repositorio no GitHub e criei outro, e refiz todo o processo de linkar novamente e deu certo.
+Gostei muito do passo a passo não tinha pensado em gravar no bloco de notas assim sempre que precisar estrará ali.
+Ficou muito bom parabens
